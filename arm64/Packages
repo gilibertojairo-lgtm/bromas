@@ -1,0 +1,12 @@
+Package: broma
+Version: 1.0
+Architecture: all
+Maintainer: Jairo <gilibertojairo@gmail.com>
+Depends: bash
+Filename: ./broma_1.0_all.deb
+Size: 852
+MD5sum: cc9ec3329f768e9e5a14491210ca301e
+SHA1: 52cd3a55979188e4bc664407ed5b0669f0262639
+SHA256: 08deacb39546429f9915bc6b59574953c3765846a471836d75643e865d07fff5
+Description: Paquete broma para Termux
+

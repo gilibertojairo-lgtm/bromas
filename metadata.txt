@@ -1,0 +1,3 @@
+Repo: nada
+Maintainer: Jairo <gilibertojairo@gmail.com>
+Description: Repo de paquetes Termux arm64
